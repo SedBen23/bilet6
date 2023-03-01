@@ -10,7 +10,7 @@ scanf("%d", &x);
 
     y=sin(x);
 
-printf("Resultat %f", y);
+printf("Resultat %f", y/2);
 return 0;
 }
 
