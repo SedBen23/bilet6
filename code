@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <math.h>
+
+main (){
+int x;
+float y;
+
+printf("Vvedite chislo");
+scanf("%d", &x);
+
+    y=sin(x);
+
+printf("Resultat %f", y);
+return 0;
+}
+
